@@ -2,6 +2,3 @@ adding 2 nd commit
 
 
 checking stash 
-
-
-chnage 4 
