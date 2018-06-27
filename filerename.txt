@@ -5,6 +5,6 @@ Checking stash
 
 Adding -->4 th commit
 
-Commits only to master
+chnage 5
 
 
