@@ -1,8 +1,8 @@
-Adding 2 nd commit 
+Adding -->2 nd commit 
 
 
 Checking stash 
 
-Adding 4 th commit
+Adding -->4 th commit
 
 
